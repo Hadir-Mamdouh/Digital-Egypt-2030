@@ -11,7 +11,7 @@
   
 Fully Original Illustrator Scenes Designs :-
 
-- All scene illustrations, icons, and visual assets in this folder are 100% original and hand-designed by us specifically for the Digital-Egypt-2030 Motion Graphics-Graduation Project.
+- All scenes illustrations, and visual assets in this folder are 100% original and hand-designed by us specifically for the Digital-Egypt-2030 Motion Graphics-Graduation Project.
 
 No AI-generated content.
 
