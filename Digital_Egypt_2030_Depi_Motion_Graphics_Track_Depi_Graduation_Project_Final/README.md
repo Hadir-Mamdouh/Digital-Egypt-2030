@@ -1,4 +1,4 @@
-# Digital Egypt 2030 Motion Graphics Track - Depi Graduation Project (Final)
+# Digital_Egypt_2030_Motion_Graphics_Track_Depi_Graduation_Project_Final
 
 All project files for the final graduation project can be accessed here:  
 [Google Drive Folder](https://drive.google.com/drive/folders/1AUVuKWJcYP4CdfJUgUIY5YSSO4wqETeO?usp=drive_link)
