@@ -2,7 +2,7 @@
 
  جميع رسم وتصميم مشاهد ال Illustrator أصلية بالكامل :-
 
-كل مشاهد المشروع والرسومات والعناصر الموجودة داخل هذا الملف **مرسومة ومصممة يدويًا بالكامل** من تنفيذ فريق المشروع فقط.
+كل مشاهد المشروع والرسومات والآيقونات والعناصر الموجودة داخل هذا الملف **مرسومة ومصممة يدويًا بالكامل** من تنفيذ فريق المشروع فقط.
 
 - بدون أي عناصر جاهزة. 
 - بدون أي تعديل على Assets خارجية. 
@@ -11,7 +11,7 @@
   
 Fully Original Illustrator Scenes Designs :-
 
-- All scenes illustrations, and visual assets in this folder are 100% original and hand-designed by us specifically for the Digital-Egypt-2030 Motion Graphics-Graduation Project.
+- All scenes illustrations,Icons and visual assets in this folder are 100% original and hand-designed by us specifically for the Digital-Egypt-2030 Motion Graphics-Graduation Project.
 
 No AI-generated content.
 
