@@ -6,7 +6,7 @@ All project files for the final graduation project can be accessed here:
 **Included in the folder:**  
 - **Final Motion Graphics video**.
 - **Final presentation PDF**.
-- **Original project files (Assets):**.
+- **Original project files (Assets):**
   - After Effects, Illustrator, Premiere projects. 
   - Voice-over audio files. 
   - Sound effects.
